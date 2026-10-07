@@ -43,38 +43,52 @@ The app must remain transparent and identifiable to the device owner. Andova mus
 
 Once setup and pairing are complete, the authorized device appears in the dashboard. The authorized user can then use the features enabled for that device and account.
 
-## What Andova can do
+## Features
 
-The available tools depend on the device, Android version, permissions, account, plan, and deployment configuration.
+The live Andova homepage presents the following feature areas. Availability depends on the device, Android version, permissions, account, plan, and deployment configuration. Every feature must be used only on an authorized device with the device owner’s knowledge and consent.
 
-### Device visibility and monitoring
+### Monitoring and device visibility
 
-- View the connected device and secure connection state
-- View live screen information where explicitly authorized
-- Review device and system information
-- Review screen-time, app-activity, and device-usage insights
-- Manage installed apps where supported and authorized
-- Review contacts, call logs, SMS, and notifications where lawful and consented
-- Review clipboard and downloaded files only when the device owner has agreed
+- **Live Screen View** — view an authorized device screen in real time.
+- **Dump Data** — review available device data and activity information.
+- **View Call Logs** — review call activity where lawful and explicitly consented to.
+- **Manage Apps** — review and manage installed applications where supported.
+- **System Info** — inspect device and system information.
+- **Contacts** — review contacts only with clear authorization.
+- **Notifications** — review device notifications where permitted.
+- **Downloads** — review downloaded files with the device owner’s approval.
+- **Clipboard** — access clipboard content only for an agreed, legitimate purpose.
 
-### Remote device tools
+### Device controls and utilities
 
-- Use the file manager
-- Launch an approved URL
-- Modify wallpaper with permission
-- Use audio, torch, vibration, and text-to-speech controls
-- Access the front or back camera for an authorized safety check
-- Use recording features only where lawful, visible, and explicitly consented to
-- Access advanced tools and administrator controls available to the account
+- **Audio Control** — manage supported audio controls.
+- **File Manager** — browse and manage authorized device files.
+- **SMS Control** — manage supported messaging functions with consent.
+- **Wallpaper Modification** — update device wallpaper when approved.
+- **Launch URL** — open an approved URL on the connected device.
+- **Torch Control** — control the device flashlight.
+- **Vibration** — trigger supported vibration controls.
+- **Text-to-Speech** — send approved text-to-speech commands.
+- **Advanced Tools** — access additional administration tools available to the account.
+- **More** — use additional capabilities exposed by the current device and configuration.
 
-### Security and administration
+### Camera, recording, and administration
 
-- Pair authorized devices with the control panel
-- Review connected-device status in real time
-- Use the administrator dashboard
-- Apply least-privilege permissions
-- Remove access when a device is no longer authorized
-- Follow the [Privacy Policy](https://advanced.andova.online/legal/privacy.html), [Terms of Service](https://advanced.andova.online/legal/terms.html), and [Disclaimer](https://advanced.andova.online/legal/disclaimer.html)
+- **Live Camera Access (Front/Back)** — access the front or rear camera only for an authorized safety or support purpose.
+- **Recording** — use recording features only where lawful, visible, and explicitly consented to.
+- **Admin Panel** — manage authorized connected devices from the control panel.
+- **Encryption** — use protected connection and data-handling features provided by the service.
+
+### Responsible access controls
+
+- **Secure device pairing** and permission setup
+- **Real-time connected-device status**
+- **Family safety and digital well-being workflows**
+- **Security-audit support for owned or authorized devices**
+- **Transparent installation and identifiable app presence**
+- **Least-privilege access and permission removal when authorization ends**
+
+The homepage also references input-activity and hook-style tools. Those capabilities are not documented here as covert monitoring features: Andova must not be used for hidden keylogging, credential capture, bypassing Android permission controls, or secret surveillance.
 
 ## Product screenshots
 
