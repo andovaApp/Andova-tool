@@ -33,11 +33,23 @@ Andova helps authorized families manage connected Android devices with clear, co
 
 ## Interface previews
 
-![Andova device dashboard](img/slide2.png)
+The screenshots below follow the visitor journey: **overview → device controls → family safety**.
 
-![Andova remote device controls](img/slide13.jpg)
+<div align="center">
+  <a href="img/slide2.png">
+    <img src="img/slide2.png" alt="Andova device dashboard overview" width="31%" />
+  </a>
+  <a href="img/slide13.jpg">
+    <img src="img/slide13.jpg" alt="Andova remote device controls" width="31%" />
+  </a>
+  <a href="img/slide3.png">
+    <img src="img/slide3.png" alt="Andova family safety interface" width="31%" />
+  </a>
+</div>
 
-![Andova family safety interface](img/slide3.png)
+<p align="center">
+  <sub><strong>01 — Overview</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>02 — Controls</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>03 — Safety</strong></sub>
+</p>
 
 ## Project structure
 
