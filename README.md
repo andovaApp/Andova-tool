@@ -7,43 +7,43 @@
 [![Live Product](https://img.shields.io/badge/Live%20Product-advanced.andova.online-0f766e?style=flat)](https://advanced.andova.online/)
 [![Repository Visitors](https://visitor-badge.laobi.icu/badge?page_id=andovaApp.andova-website&left_text=visitors)](https://github.com/andovaApp/andova-website)
 
-I built **Andova** as an advanced, consent-based remote administration and parental control platform for managing Android devices that I own or am explicitly authorized to manage.
+**Andova** is an advanced, consent-based remote administration and parental control platform for managing Android devices that are owned or explicitly authorized for management.
 
-With Andova, I can create an authorized device client, pair it with the control panel, and use the available device-management tools from one dashboard. I use it for family safety, digital well-being, device visibility, and responsible remote administration.
+With Andova, an authorized user can create a device client, pair it with the control panel, and use the available device-management tools from one dashboard. It is designed for family safety, digital well-being, device visibility, and responsible remote administration.
 
 > **Live product:** [advanced.andova.online](https://advanced.andova.online/)
 >
-> I use Andova only with clear permission from the device owner. I do not use it for covert surveillance, unauthorized access, credential theft, or any activity that violates privacy or law.
+> Andova is intended only for use with clear permission from the device owner. It must not be used for covert surveillance, unauthorized access, credential theft, or any activity that violates privacy or law.
 
-## My setup process
+## Setup process
 
-### 1. Create my credentials
+### 1. Create credentials
 
-I visit the [Andova website](https://advanced.andova.online/) and choose the plan that fits my needs. After completing the account or plan process, I create the credentials I will use to access the Andova control panel.
+Visit the [Andova website](https://advanced.andova.online/) and choose the plan that fits the intended use. After completing the account or plan process, create the credentials used to access the Andova control panel.
 
 ### 2. Log in
 
-I open the Andova control panel and log in with my account credentials. I keep those credentials private and never share them through chat, public issues, screenshots, or client-side scripts.
+Open the Andova control panel and log in with the account credentials. Keep those credentials private and never share them through chat, public issues, screenshots, or client-side scripts.
 
 ### 3. Open Build
 
-After logging in, I go to the **Build** section. I choose the configuration required for my own authorized device and build the device client.
+After logging in, go to the **Build** section. Choose the configuration required for the authorized device and build the device client.
 
 ### 4. Install on an authorized device
 
-I install the generated client only on a device that I own or have clear permission to manage. The device owner is informed before installation and pairing.
+Install the generated client only on a device that is owned or clearly authorized for management. The device owner is informed before installation and pairing.
 
 ### 5. Open the app and review permissions
 
-I open the app on the authorized device and complete the setup. Android displays the permissions required by the selected features. I review each permission with the device owner and grant only the permissions that are necessary and understood.
+Open the app on the authorized device and complete the setup. Android displays the permissions required by the selected features. Review each permission with the device owner and grant only the permissions that are necessary and understood.
 
 The app must remain transparent and identifiable to the device owner. Andova must not be configured to hide itself, bypass Android permission controls, or operate secretly.
 
 ### 6. Pair and manage
 
-Once setup and pairing are complete, the authorized device appears in the dashboard. I can then use the features enabled for that device and account.
+Once setup and pairing are complete, the authorized device appears in the dashboard. The authorized user can then use the features enabled for that device and account.
 
-## What I can do with Andova
+## What Andova can do
 
 The available tools depend on the device, Android version, permissions, account, plan, and deployment configuration.
 
@@ -65,7 +65,7 @@ The available tools depend on the device, Android version, permissions, account,
 - Use audio, torch, vibration, and text-to-speech controls
 - Access the front or back camera for an authorized safety check
 - Use recording features only where lawful, visible, and explicitly consented to
-- Access advanced tools and administrator controls available to my account
+- Access advanced tools and administrator controls available to the account
 
 ### Security and administration
 
@@ -78,7 +78,7 @@ The available tools depend on the device, Android version, permissions, account,
 
 ## Product screenshots
 
-These are the real Andova product images. I arranged them in order from the dashboard overview to device controls, monitoring, advanced tools, and administration. I can click any image to open the full-size version.
+These are the real Andova product images. They are arranged in order from the dashboard overview to device controls, monitoring, advanced tools, and administration. Click any image to open the full-size version.
 
 <div align="center">
   <a href="img/slide2.png"><img src="img/slide2.png" alt="Andova remote care dashboard overview" width="23%"></a>
@@ -107,26 +107,26 @@ These are the real Andova product images. I arranged them in order from the dash
 
 ## Plans
 
-I check the [live Andova product page](https://advanced.andova.online/) for current pricing, availability, and terms. The plans presented there include:
+Check the [live Andova product page](https://advanced.andova.online/) for current pricing, availability, and terms. The plans presented there include:
 
 - **Premium** — time-limited access with the listed features, Android and Windows support, device limits, bandwidth limits, and priority support.
 - **Lifetime** — permanent access with cross-platform options, source-code access, custom modifications, support, bandwidth, and updates as described on the live page.
 - **Complete Package** — lifetime access plus course material, tutorials, guides, build education, and workshop access.
 
-The live website is the source of truth for current offers. I review the terms before purchasing.
+The live website is the source of truth for current offers. Review the terms before purchasing.
 
 ## Responsible use and privacy
 
-I use Andova only for lawful, authorized, and consent-based device management.
+Andova is used only for lawful, authorized, and consent-based device management.
 
-- I obtain clear permission before installing or pairing a device.
-- I explain what information can be accessed and why it is needed.
-- I keep the app identifiable and do not hide it from the device owner.
-- I never bypass Android security or permission controls.
-- I use the minimum permissions required for the agreed purpose.
-- I do not collect, log, or transmit plaintext passwords or private keys.
-- I remove the device and revoke access when authorization ends.
-- I follow applicable privacy, child-safety, employment, and data-protection laws.
+- Obtain clear permission before installing or pairing a device.
+- Explain what information can be accessed and why it is needed.
+- Keep the app identifiable and do not hide it from the device owner.
+- Never bypass Android security or permission controls.
+- Use the minimum permissions required for the agreed purpose.
+- Do not collect, log, or transmit plaintext passwords or private keys.
+- Remove the device and revoke access when authorization ends.
+- Follow applicable privacy, child-safety, employment, and data-protection laws.
 
 For details, read the [Privacy Policy](https://advanced.andova.online/legal/privacy.html), [Terms of Service](https://advanced.andova.online/legal/terms.html), and [Disclaimer](https://advanced.andova.online/legal/disclaimer.html).
 
