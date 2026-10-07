@@ -4,6 +4,11 @@ The public static website for **Andova**, a consent-based Android parental contr
 
 **Live site:** [advanced.andova.online](https://advanced.andova.online/)
 
+[![Live Website](https://img.shields.io/badge/Live%20Website-advanced.andova.online-0f766e?style=flat)](https://advanced.andova.online/)
+[![Repository Visitors](https://visitor-badge.laobi.icu/badge?page_id=andovaApp.andova-website&left_text=repository%20visitors)](https://github.com/andovaApp/andova-website)
+
+Andova helps authorized families manage connected Android devices with clear, consent-based tools for digital safety, device visibility, and responsible remote administration.
+
 ## What is included
 
 - Responsive Andova homepage
@@ -12,6 +17,27 @@ The public static website for **Andova**, a consent-based Android parental contr
 - Local images, favicons, and PWA manifest
 - `robots.txt` and `sitemap.xml` for search crawlers
 - SEO metadata, canonical URLs, Open Graph previews, Twitter cards, and structured data
+
+## Features
+
+- Live screen view and device status
+- Screen-time and app-activity insights
+- App and device management
+- Location awareness with explicit consent
+- Contacts, call-log, SMS, and notification views
+- File manager and downloads
+- Camera and audio controls for authorized safety checks
+- System information and secure device pairing
+- Real-time dashboard for connected devices
+- Blog and legal pages for user education, privacy, and responsible use
+
+## Interface previews
+
+![Andova device dashboard](img/slide2.png)
+
+![Andova remote device controls](img/slide13.jpg)
+
+![Andova family safety interface](img/slide3.png)
 
 ## Project structure
 
