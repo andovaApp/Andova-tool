@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /payment.html
+Disallow: /end-cr98-9f1a6b3e.html
+
+Sitemap: https://advanced.andova.online/sitemap.xml
