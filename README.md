@@ -4,73 +4,81 @@
   <img src="img/logo2.png" alt="Andova logo" width="128">
 </p>
 
-[![Live Website](https://img.shields.io/badge/Live%20Website-advanced.andova.online-0f766e?style=flat)](https://advanced.andova.online/)
-[![Repository Visitors](https://visitor-badge.laobi.icu/badge?page_id=andovaApp.andova-website&left_text=repository%20visitors)](https://github.com/andovaApp/andova-website)
-[![Static Site](https://img.shields.io/badge/stack-static%20HTML%2FCSS%2FJS-111827?style=flat)](#run-locally)
+[![Live Product](https://img.shields.io/badge/Live%20Product-advanced.andova.online-0f766e?style=flat)](https://advanced.andova.online/)
+[![Repository Visitors](https://visitor-badge.laobi.icu/badge?page_id=andovaApp.andova-website&left_text=visitors)](https://github.com/andovaApp/andova-website)
 
-**Andova** is an advanced, consent-based remote administration and parental control platform for managing authorized Android devices. It gives families and administrators a clear web control panel for device visibility, digital safety, security audits, and remote device tools.
+I built **Andova** as an advanced, consent-based remote administration and parental control platform for managing Android devices that I own or am explicitly authorized to manage.
+
+With Andova, I can create an authorized device client, pair it with the control panel, and use the available device-management tools from one dashboard. I use it for family safety, digital well-being, device visibility, and responsible remote administration.
 
 > **Live product:** [advanced.andova.online](https://advanced.andova.online/)
 >
-> Use Andova only on devices you own or are explicitly authorized to manage. Responsible use, informed consent, privacy, and applicable law come first.
+> I use Andova only with clear permission from the device owner. I do not use it for covert surveillance, unauthorized access, credential theft, or any activity that violates privacy or law.
 
-## What Andova does
+## My setup process
 
-Andova keeps the important tools for a connected device in one place. From a phone or desktop browser, an authorized user can connect to a paired device, review available activity, and use the management features enabled for that device.
+### 1. Create my credentials
 
-- **Stay informed:** understand screen time, app activity, device status, location, and browsing activity.
-- **Stay connected:** check in on an authorized smartphone and use its available device tools remotely.
-- **Manage from anywhere:** access the dashboard wherever you are, once the device has been installed, paired, and permissioned.
-- **Keep control clear:** use a GUI-based dashboard with real-time device state and activity views.
+I visit the [Andova website](https://advanced.andova.online/) and choose the plan that fits my needs. After completing the account or plan process, I create the credentials I will use to access the Andova control panel.
 
-## Capabilities
+### 2. Log in
 
-The live Andova product page currently presents these capability areas. Availability depends on the device, permissions, account, plan, and deployment configuration.
+I open the Andova control panel and log in with my account credentials. I keep those credentials private and never share them through chat, public issues, screenshots, or client-side scripts.
+
+### 3. Open Build
+
+After logging in, I go to the **Build** section. I choose the configuration required for my own authorized device and build the device client.
+
+### 4. Install on an authorized device
+
+I install the generated client only on a device that I own or have clear permission to manage. The device owner is informed before installation and pairing.
+
+### 5. Open the app and review permissions
+
+I open the app on the authorized device and complete the setup. Android displays the permissions required by the selected features. I review each permission with the device owner and grant only the permissions that are necessary and understood.
+
+The app must remain transparent and identifiable to the device owner. Andova must not be configured to hide itself, bypass Android permission controls, or operate secretly.
+
+### 6. Pair and manage
+
+Once setup and pairing are complete, the authorized device appears in the dashboard. I can then use the features enabled for that device and account.
+
+## What I can do with Andova
+
+The available tools depend on the device, Android version, permissions, account, plan, and deployment configuration.
 
 ### Device visibility and monitoring
 
-- Live screen view
-- Device status and secure connection state
-- Device and system information
-- Activity and data overview
-- App management and app-activity visibility
-- Contacts, call-log, SMS, and notification views
-- Clipboard and download access where explicitly authorized
+- View the connected device and secure connection state
+- View live screen information where explicitly authorized
+- Review device and system information
+- Review screen-time, app-activity, and device-usage insights
+- Manage installed apps where supported and authorized
+- Review contacts, call logs, SMS, and notifications where lawful and consented
+- Review clipboard and downloaded files only when the device owner has agreed
 
 ### Remote device tools
 
-- File manager
-- Launch URL
-- Wallpaper modification
-- Audio control
-- Torch control
-- Vibration control
-- Text-to-speech
-- Camera access for authorized safety checks
-- Recording controls where lawful and explicitly consented to
-- Advanced tools and administrator controls
+- Use the file manager
+- Launch an approved URL
+- Modify wallpaper with permission
+- Use audio, torch, vibration, and text-to-speech controls
+- Access the front or back camera for an authorized safety check
+- Use recording features only where lawful, visible, and explicitly consented to
+- Access advanced tools and administrator controls available to my account
 
 ### Security and administration
 
-- Secure device pairing and permission setup
-- Encrypted connection messaging
-- Admin panel for authorized users
-- Real-time connected-device dashboard
-- Privacy, terms, and responsible-use documentation
-- Support for family safety, digital well-being, and security-audit workflows
-
-## How it works
-
-1. **Log in** — access the authorized Andova account.
-2. **Build** — create the device app with the required configuration.
-3. **Install and pair** — install it on an authorized Android device and complete pairing and permission setup.
-4. **Manage** — use the dashboard features enabled for the connected device.
-
-The dashboard is designed for straightforward remote care: connect an authorized device, confirm its status, choose a management area, and review the available information or action.
+- Pair authorized devices with the control panel
+- Review connected-device status in real time
+- Use the administrator dashboard
+- Apply least-privilege permissions
+- Remove access when a device is no longer authorized
+- Follow the [Privacy Policy](https://advanced.andova.online/legal/privacy.html), [Terms of Service](https://advanced.andova.online/legal/terms.html), and [Disclaimer](https://advanced.andova.online/legal/disclaimer.html)
 
 ## Product screenshots
 
-These are the real product images included with the live website. They are arranged in a responsive four-column gallery on wide screens and wrap naturally on smaller screens. Click any image to open the full-size version.
+These are the real Andova product images. I arranged them in order from the dashboard overview to device controls, monitoring, advanced tools, and administration. I can click any image to open the full-size version.
 
 <div align="center">
   <a href="img/slide2.png"><img src="img/slide2.png" alt="Andova remote care dashboard overview" width="23%"></a>
@@ -92,104 +100,43 @@ These are the real product images included with the live website. They are arran
 
 <div align="center">
   <a href="img/slide10.jpg"><img src="img/slide10.jpg" alt="Andova connected Android device workflow" width="23%"></a>
-  <a href="img/slide12.jpg"><img src="img/slide12.jpg" alt="Andova admin dashboard capability preview" width="23%"></a>
+  <a href="img/slide12.jpg"><img src="img/slide12.jpg" alt="Andova administrator dashboard preview" width="23%"></a>
 </div>
 
-<p align="center"><sub><strong>09 Connected device workflow</strong> · <strong>10 Admin dashboard</strong></sub></p>
+<p align="center"><sub><strong>09 Connected device workflow</strong> · <strong>10 Administrator dashboard</strong></sub></p>
 
-## Plans shown on the live site
+## Plans
 
-The live website presents three access options. Check [advanced.andova.online](https://advanced.andova.online/) for current pricing, availability, and terms before making any decision.
+I check the [live Andova product page](https://advanced.andova.online/) for current pricing, availability, and terms. The plans presented there include:
 
-- **Premium** — 7 months of access, all listed features, Android and Windows support, up to 10 devices, bandwidth limits, and priority support.
-- **Lifetime** — permanent access, cross-platform options, source-code access, custom modifications, priority support, unlimited bandwidth, and lifetime updates.
-- **Complete Package** — lifetime access plus a making course, tutorials, guides, build-from-scratch material, and private workshop access.
+- **Premium** — time-limited access with the listed features, Android and Windows support, device limits, bandwidth limits, and priority support.
+- **Lifetime** — permanent access with cross-platform options, source-code access, custom modifications, support, bandwidth, and updates as described on the live page.
+- **Complete Package** — lifetime access plus course material, tutorials, guides, build education, and workshop access.
 
-## This repository
+The live website is the source of truth for current offers. I review the terms before purchasing.
 
-This repository contains the production static website and public product presentation for Andova. It includes:
+## Responsible use and privacy
 
-- Responsive homepage and product landing page
-- Full capabilities, how-it-works, pricing, and contact sections
-- Android safety and parental-control blog
-- Privacy policy, terms of service, and disclaimer pages
-- Real product images, logos, favicons, and PWA manifests
-- `robots.txt` and `sitemap.xml`
-- Canonical URLs, Open Graph previews, Twitter cards, structured data, and search metadata
-- Visitor analytics client for the live site and a repository visitor badge
+I use Andova only for lawful, authorized, and consent-based device management.
 
-The remote-control backend, authenticated dashboard services, payment processing, device build service, and API infrastructure are deployment-specific and are not included in this static website repository.
+- I obtain clear permission before installing or pairing a device.
+- I explain what information can be accessed and why it is needed.
+- I keep the app identifiable and do not hide it from the device owner.
+- I never bypass Android security or permission controls.
+- I use the minimum permissions required for the agreed purpose.
+- I do not collect, log, or transmit plaintext passwords or private keys.
+- I remove the device and revoke access when authorization ends.
+- I follow applicable privacy, child-safety, employment, and data-protection laws.
 
-## Project structure
+For details, read the [Privacy Policy](https://advanced.andova.online/legal/privacy.html), [Terms of Service](https://advanced.andova.online/legal/terms.html), and [Disclaimer](https://advanced.andova.online/legal/disclaimer.html).
 
-```text
-.
-├── index.html                 # Main Andova product page
-├── blog/blog.html             # Safety and parental-control blog
-├── legal/                     # Privacy, terms, and disclaimer pages
-├── img/                       # Logos, screenshots, and favicons
-├── manifest.json              # PWA manifest
-├── site.webmanifest           # Alternate PWA manifest path
-├── visitor.js                 # Live-site visitor analytics client
-├── robots.txt                 # Crawler rules
-├── sitemap.xml                # Public URL sitemap
-├── .gitignore
-└── README.md
-```
+## About this repository
 
-## Run locally
-
-This is a static site. It has no build step and requires no package installation.
-
-```bash
-git clone https://github.com/andovaApp/andova-website.git
-cd andova-website
-python3 -m http.server 8080
-```
-
-Open <http://localhost:8080/> in a browser.
-
-## Production deployment
-
-Deploy the repository root with GitHub Pages, Cloudflare Pages, Netlify, or another static hosting provider. Configure the production custom domain as:
-
-```text
-advanced.andova.online
-```
-
-Preserve these public files and paths:
-
-- `/robots.txt`
-- `/sitemap.xml`
-- `/manifest.json`
-- `/site.webmanifest`
-- `/blog/blog.html`
-- `/legal/privacy.html`
-- `/legal/terms.html`
-- `/legal/disclaimer.html`
-
-After deployment, verify that the canonical URLs, sitemap entries, Open Graph URLs, and site links all use `https://advanced.andova.online/`.
-
-## Search readiness
-
-The public pages include meaningful initial HTML, descriptive titles, route-specific descriptions, canonical URLs, crawl rules, a sitemap, Open Graph metadata, Twitter cards, structured data, descriptive image alt text, and internal links. Add a sitemap entry whenever a new indexable public page is introduced.
-
-Search visibility is not a ranking guarantee. Indexing and ranking depend on crawl discovery, content quality, site performance, authority, backlinks, competition, and search-engine policies.
-
-## Responsible use and security
-
-Andova is intended only for lawful, authorized, consent-based device management and family safety. Do not use it for covert surveillance, unauthorized access, credential theft, harassment, or any activity that violates privacy or law.
-
-- Obtain clear permission from the device owner before installation and pairing.
-- Explain what data is collected, why it is needed, and who can access it.
-- Use least-privilege permissions and remove access when it is no longer needed.
-- Do not collect, log, or transmit plaintext passwords or private keys.
-- Keep authenticated dashboards, payment flows, build endpoints, and private APIs out of search indexing.
-- Configure server-side analytics, retention, access controls, and privacy notices before enabling production endpoints.
+This repository contains the public Andova product presentation, documentation, real interface images, and links to the live control platform. The authenticated dashboard, device-build service, remote-control backend, payment processing, and private APIs are provided through the live Andova service and are not contained in this README repository.
 
 ## Public links
 
-- Website: [advanced.andova.online](https://advanced.andova.online/)
+- Product: [advanced.andova.online](https://advanced.andova.online/)
 - Blog: [Andova Blog](https://advanced.andova.online/blog/blog.html)
 - Privacy: [Privacy Policy](https://advanced.andova.online/legal/privacy.html)
 - Terms: [Terms of Service](https://advanced.andova.online/legal/terms.html)
